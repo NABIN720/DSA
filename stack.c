@@ -63,7 +63,7 @@ void display(struct stack Q)
 int main()
 {
     struct stack s;
-    s.top = -1;;
+    s.top = -1;
     int choice,element;
      do
     {
